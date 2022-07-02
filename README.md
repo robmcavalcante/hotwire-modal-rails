@@ -2,6 +2,6 @@
 - Ruby
 - RubyOnRails
 - Popper
-- Bootsrap
+- Bootstrap
 - Stimulus
 - Turbo
